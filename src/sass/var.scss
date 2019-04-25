@@ -1,0 +1,31 @@
+/* 
+项目的全局变量
+login背景颜色：#bee8f6；
+main背景颜色：#fff
+字体颜色:color: #333;
+创建按钮颜色：#acc877；
+Save按钮颜色：#428bca
+cancel按钮颜色：#f0ad4e；   
+AP-group字体颜色： #5f4193;
+#96c4e6
+
+*/
+//Color
+$skyblue-base:#bee8f6 !default;
+$white-base:#ffffff !default;
+$home-color:#6ca7e2 !default;
+$config-color:#96c4e6 !default;
+$apgroup-color:#5f4193;
+//background
+$bg-login:$skyblue-base;
+$bg-body: $white-base;
+
+//font-size
+$fz-sm:14px;
+$fz-md:16px;
+$fz-lg:18px;
+
+//button color;
+$cr-btn:#acc877;
+$sv-btn:#428bca;
+$cc-btn:#f0ad4e;
